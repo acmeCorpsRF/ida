@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Arial, sans-serif;
+  src: url("/public/fontsc/fonts/Arial/Arial.ttf");
+}
+@font-face {
+  font-family: Open-Sans-Bold, sans-serif;
+  src: url("/public/fontsc/fonts/Open Sans/OpenSans-Bold.ttf");
+}
+/* body start */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #101114;
+}
+
+/* body end */
+
+/*# sourceMappingURL=body.css.map */

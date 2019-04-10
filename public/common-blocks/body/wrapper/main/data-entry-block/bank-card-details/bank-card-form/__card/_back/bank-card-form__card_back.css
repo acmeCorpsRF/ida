@@ -1,0 +1,30 @@
+/* bank-card-form__card_back start */
+.bank-card-form__card_back {
+  position: relative;
+  float: right;
+  text-align: right;
+}
+
+@media all and (min-width: 582px) {
+  .bank-card-form__card_back {
+    margin-top: -216px;
+  }
+}
+@media all and (max-width: 581px) {
+  .bank-card-form__card_back {
+    margin-top: -82px;
+  }
+}
+.bank-card-form__card_back::before {
+  content: "";
+  display: block;
+  position: absolute;
+  right: -1px;
+  left: -1px;
+  height: 42px;
+  background-color: #e5eaef;
+}
+
+/* bank-card-form__card_back end */
+
+/*# sourceMappingURL=bank-card-form__card_back.css.map */

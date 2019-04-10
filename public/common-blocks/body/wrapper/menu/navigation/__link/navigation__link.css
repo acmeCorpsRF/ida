@@ -1,0 +1,13 @@
+/* navigation__link start */
+.navigation__link {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.navigation__link:hover {
+  text-decoration: underline;
+}
+
+/* navigation__link end */
+
+/*# sourceMappingURL=navigation__link.css.map */

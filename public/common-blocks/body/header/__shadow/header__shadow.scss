@@ -1,0 +1,15 @@
+/* header__shadow start */
+.header__shadow {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+  background-color: rgba(255, 255, 255, 0.5);
+  z-index: 1;
+}
+.header__shadow_show {
+  display: block;
+}
+/* header__shadow end */

@@ -1,0 +1,13 @@
+/* payment-information__point-name start */
+.payment-information__point-name {
+  display: inline-block;
+  width: 160px;
+  font-size: 16px;
+  line-height: 21px;
+  font-family: Arial, sans-serif;
+  color: #8494ab;
+}
+
+/* payment-information__point-name end */
+
+/*# sourceMappingURL=payment-information__point-name.css.map */

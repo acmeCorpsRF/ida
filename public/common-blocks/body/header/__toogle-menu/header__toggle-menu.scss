@@ -1,0 +1,22 @@
+/* header__toggle-menu start */
+.header__toggle-menu {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  height: 43px;
+  width: 43px;
+  background-image: linear-gradient(to bottom, #005abf, #004ca2);
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  z-index: 3;
+}
+
+@media all and (min-width: 1000px) {
+  .header__toggle-menu {
+    display: none;
+  }
+}
+
+/* header__toggle-menu start */

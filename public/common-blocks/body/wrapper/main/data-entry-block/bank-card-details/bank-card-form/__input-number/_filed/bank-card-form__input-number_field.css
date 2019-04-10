@@ -1,0 +1,15 @@
+/* bank-card-form__input-number_field start */
+@media all and (min-width: 424px) {
+  .bank-card-form__input-number_field {
+    width: 65px;
+    margin-right: 6px;
+  }
+}
+@media all and (max-width: 423px) {
+  .bank-card-form__input-number_field {
+    width: 52px;
+  }
+}
+/* bank-card-form__input-number_field end */
+
+/*# sourceMappingURL=bank-card-form__input-number_field.css.map */

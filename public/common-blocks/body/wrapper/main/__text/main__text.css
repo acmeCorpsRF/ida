@@ -1,0 +1,12 @@
+/* main__text start */
+.main__text {
+  color: #7f8591;
+}
+
+.main__text:not(:last-child) {
+  margin: 0 0 14px 0;
+}
+
+/* main__text end*/
+
+/*# sourceMappingURL=main__text.css.map */

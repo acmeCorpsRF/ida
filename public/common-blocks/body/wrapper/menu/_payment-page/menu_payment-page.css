@@ -1,0 +1,36 @@
+/* menu_payment-page start */
+@media all and (min-width: 1000px) {
+  .menu_payment-page {
+    float: left;
+    width: 320px;
+  }
+}
+@media all and (max-width: 999px) {
+  .menu_payment-page {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    background-color: #191c24;
+    z-index: 2;
+    transition: all 0.5s linear;
+  }
+}
+@media all and (max-width: 999px) and (min-width: 720px) {
+  .menu_payment-page {
+    left: -320px;
+    width: 320px;
+  }
+}
+@media all and (max-width: 719px) {
+  .menu_payment-page {
+    left: -220px;
+    width: 220px;
+  }
+}
+.menu_payment-page_show {
+  left: 0;
+}
+
+/* menu_payment-page end */
+
+/*# sourceMappingURL=menu_payment-page.css.map */

@@ -1,0 +1,22 @@
+/* navigation__point start */
+.navigation__point {
+  background-color: #191c24;
+}
+@media all and (min-width: 720px) {
+  .navigation__point {
+    padding: 27px 27px 25px;
+  }
+}
+@media all and (max-width: 719px) {
+  .navigation__point {
+    padding: 15px;
+  }
+}
+.navigation__point:hover {
+  background-color: #1f2229;
+}
+
+.navigation__point:not(:last-child) {
+  border-bottom: 1px solid #20232b;
+}
+/* navigation__point end */

@@ -1,0 +1,22 @@
+/* bank-card-form__button_default start */
+.bank-card-form__button_default {
+  padding: 13px 31px;
+  color: #ffffff;
+  background-image: linear-gradient(to bottom, #005abf, #004ca2);
+  border-radius: 18px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.bank-card-form__button_default:hover {
+  background-image: linear-gradient(to bottom, #004ca2, #005abf);
+}
+
+.bank-card-form__button_default:active {
+  box-shadow: inset 0 0 15px 0 rgba(0, 0, 0, 0.75);
+}
+
+/* bank-card-form__button_default end */
+
+/*# sourceMappingURL=bank-card-form__button_default.css.map */

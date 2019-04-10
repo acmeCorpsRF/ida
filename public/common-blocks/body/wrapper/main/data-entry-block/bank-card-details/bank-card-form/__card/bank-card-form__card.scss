@@ -1,0 +1,23 @@
+/* bank-card-form__card start */
+.bank-card-form__card {
+  height: 236px;
+  padding: 24px 15px 14px;
+  background-color: #f7f8f8;
+  border: 1px solid #e5eaef;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+@media all and (min-width: 424px) {
+  .bank-card-form__card {
+    width: 350px;
+  }
+}
+
+@media all and (max-width: 423px) {
+  .bank-card-form__card {
+    width: 100%;
+  }
+}
+
+/* bank-card-form__card end */

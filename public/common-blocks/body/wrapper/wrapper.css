@@ -1,0 +1,14 @@
+/* wrapper start */
+.wrapper {
+  margin: 0 auto;
+  padding: 80px 0;
+}
+
+@media all and (min-width: 1000px) {
+  .wrapper {
+    width: 960px;
+  }
+}
+/* wrapper end */
+
+/*# sourceMappingURL=wrapper.css.map */

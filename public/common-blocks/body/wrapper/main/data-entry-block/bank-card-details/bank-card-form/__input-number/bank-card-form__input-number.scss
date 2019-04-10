@@ -1,0 +1,24 @@
+/* bank-card-form__input-number start */
+.bank-card-form__input-number {
+  padding: 12px 11px 9px;
+  font-size: 16px;
+  line-height: 21px;
+  font-family: Arial, sans-serif;
+  color: #383d43;
+  border: 1px solid #e4e9ee;
+  box-sizing: border-box;
+  outline: none;
+}
+
+@media all and (min-width: 424px) {
+  .bank-card-form__input-number {
+    padding: 12px 11px 9px;
+  }
+}
+
+@media all and (max-width: 423px) {
+  .bank-card-form__input-number {
+    padding: 6px;
+  }
+}
+/* bank-card-form__input-number end*/
